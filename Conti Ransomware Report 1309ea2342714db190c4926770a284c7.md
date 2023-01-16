@@ -14,7 +14,7 @@ Target: [Conti Ransomware v2 with source code](https://virusshare.com/file?eae87
 
 Cre: chuongdong.com
 
-Quick overview about Conti Ransomware. The picture above credit from [chuongdong.com](http://chuongdong.com) shows a good overall about how Conti Ransomware run and ransom user data. It’s worth to note that Conti is called a modern Ransomware which it contains much more advance techniques that evade itself from AV ( anti-virus ) and also, anti debugging and reverse engineering, make it harder for malware analyst and reverser to figure it out. Moreover, some of advance methods such as networked SMB target via command line, 32 CPU threats encryption and abuse Windows Restart Manager is a signature of this new type of Ransomware that make it stand out from the rest of the ransom world.
+Quick overview about Conti Ransomware. The picture above credit from [chuongdong.com](http://chuongdong.com) shows a good overall about how Conti Ransomware run and ransom user data. It’s worth to note that Conti is called a modern Ransomware which it contains much more advance techniques that evade itself from AV ( anti-virus ) and also, anti debugging and reverse engineering, make it harder for malware analyst and reverser to figure it out. Moreover, some of advance methods such as networked SMB target via command line, 32 CPU threats encryption and abuse VSS are signatures of this new type of Ransomware that make it stand out from the rest of the ransom world.
 
 Conti come with the full source code of 2nd and 3rd version of the ransomware, including PE file and DLL file, also, you can built the PE file on your own with source code provided but be careful and pay attention to the version of your built tools.
 
